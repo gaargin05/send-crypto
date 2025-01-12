@@ -30,7 +30,7 @@ Send Crypto is a blockchain application built with React and Solidity. It allows
 
 2. Install dependencies:
     ```bash
-    cd send-crypto/client
+ 
     npm install
     ```
 
